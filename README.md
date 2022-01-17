@@ -7,3 +7,6 @@ I have good information in the following languages:
 1. Python language
 2. C++
 3. html
+
+>I changed my field of study to the field of e-marketing, it was an interesting and informative field
+>I am seeking knowledge in any field
