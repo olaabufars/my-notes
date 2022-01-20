@@ -1,5 +1,5 @@
 ### Hello everyone
-## Everyone has a little programmer inside
+## Everyone has a little programmer in them
 
 
 <p>"I always strive to learn, I try to learn programming by improving my logical thinking. This is my main goal"<br>
